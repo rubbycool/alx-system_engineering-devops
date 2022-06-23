@@ -1,2 +1,2 @@
-#!/bin/bash 
-These are basic file permission command
+#!/bin/bash
+Shell file permissions
