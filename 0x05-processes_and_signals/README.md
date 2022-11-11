@@ -1,12 +1,6 @@
 # 0x05. Processes and signals
-
-## Resources:books:
-Read or watch:
-* [Linux PID](https://intranet.hbtn.io/rltoken/FcpEdqz8hau7eEB0Pi8Ong)
-* [Linux process](https://intranet.hbtn.io/rltoken/hX_t2YK0erLPbdTq0-uKwQ)
-* [Linux signal](https://intranet.hbtn.io/rltoken/SojW4zvL8j1yaoa7_NM6rA)
-
 ---
+
 ## Learning Objectives:bulb:
 What you should learn from this project:
 
@@ -53,13 +47,4 @@ What you should learn from this project:
 
 ### [8. Beheaded process](./8-beheaded_process)
 * Write a Bash script that kills the process 7-highlander.
-
----
-
-## Author
-* **Joseph Mahiuha** - [Mahiuha](https://github.com/Mahiuha)
-
------
-<!-- Contact info -->
-
 
