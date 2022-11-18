@@ -29,7 +29,5 @@ What you should learn from this project:
 ### [4. Port listening on localhost](./4-port_listening_on_localhost)
 * Write a Bash script that listens on port 98 on localhost.
 
----
-
-## Author
-* **Rory Fahy** - [rmf10003](https://github.com/rmf10003)
+=======
+## The END
